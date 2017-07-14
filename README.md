@@ -2,7 +2,7 @@ Monitor controller
 
 Requirements:
 
-Node version 6.5.0 At least
+Node version 6.11.1 At least
 
 run:
 
